@@ -29,9 +29,10 @@ github_username:  chitwan27
 youtube_username: >-
   @chitwansingh
 # Build settings
-theme: minima
+# theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
   - jekyll-seo-tag 
 
 # Exclude from processing.

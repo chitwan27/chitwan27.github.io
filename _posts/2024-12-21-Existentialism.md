@@ -1,13 +1,15 @@
 ---
 layout: post
 title:  "Existentialism"
-date:   2024-12-15 20:00:25 +0530
+date:   2024-12-21 20:00:25 +0530
 categories: [blog]
 ---
+![image representing existential thought](/assets/images/ariel-tang-jp4ga0o7Cts-unsplash.jpg)
 
-`An unexamined life is not worth living.` -Socrates.
+## *An unexamined life is not worth living. -Socrates.*
+
 #### Welcome to the Universe
-Human beings are born into this world a blank slate, innocent and helpless, and pretty much instantaneously, the people around us start imposing their norms, values, and ideas on us. We all live our lives inside of a society, and the people around us are always keen to teach us, how to be a functioning member, through means both direct and indirect. Humans have been predisposed as social beings to construct stories and narratives to help us wrestle with the fundamental questions that beguile us. All cultures have origin stories, mythologies, and narratives that help us make sense of our place in the world. Religions, traditions, and norms still play a huge role in giving people a sense of certainty and direction. But, as society has progressed, and especially in the past few centuries, our relationship with these old foundations has started to change, as more and more of us grow skeptical towards these traditionalist foundations.
+Human beings are born into this world a blank slate, innocent and helpless, and pretty much instantaneously, the people around us start imposing their norms, values, and ideas on us. We all live our lives inside of a society, and the people around us are always keen to teach us, how to be a functioning member, through means both direct and indirect. Humans have been predisposed as social beings to construct stories and narratives to help us wrestle with the fundamental questions that beguile us. All cultures have origin stories, mythologies, and narratives that help us make sense of our place in the world. Religions, traditions, and norms still play a huge role in giving people a sense of certainty and direction. But, as society has progressed, and especially in the past few centuries, our relationship with these old foundations has started to change, as more and more of us have grown skeptical towards these traditional philosophical foundations.
 
 #### The Pursuit of Truth
 Humanity's relationship with knowledge really started to pick up steam about 500 years ago, with the development and refinement of the scientific method. Before long, we were tackling fundamental questions about the nature of reality head on. We started to get a sense of our place in the universe. Empirical science gave us the ability to peer behind the curtain and figure out the mechanisms that drove the natural world. We figured out that we live on a planet that is revolving around the sun whose orbital trajectory we could calculate. Evolution revealed to us that we were fashioned by the blind hand of natural selection, our ancestors being primates. We started thinking of better ways of organising society other than feudalism and absolute monarchy. Nothing seemed off limits for it to be understood by us. Our traditional narratives and mythologies started losing power as they offered nothing in comparison to the wonders of science and empirical rationalism.
@@ -42,4 +44,4 @@ From the existentialists' point of view, humans are condemned to be free; what e
 #### Existentialism is a Humanism
 Existentialism eradicates any a priori values by which to judge our actions, yet there are some fundamental values and ethical preferences, that still emerge from this philosophy. It is inauthentic to live in bad faith, to be logically inconsistent, or to be dishonest with oneself about one's choices. In existentialism, freedom is the fundamental value from which other values emerge, thus it is sacred. It is clear that despite one's will to act freely, societal baggage infused in hierarchies of class, creed, gender, etc., prevents an individual from freely expressing themselves. Also, it is quite important to understand the fact that in a society no individual is free until everyone is. When an individual gives primacy to their own subjectivity, they discover that every other human being is in the same predicament as them. Simone De Beauvoir argued in her work, "The Ethics of Ambiguity" that, one's greatest moral imperative is to create their own life's meaning, while fighting for the freedom for others to do the same. Thus, existential living involves fighting with forces inside and outside oneself, in the quest for achieving true freedom and authenticity. By adopting the existentialist point of view, one starts engaging critically and authentically with their life's choices, and once they start seeing the universality in their individuality, what emerges is a rational, empathetic, and transcendental way of living.
 
-`Man is Free, Man is Freedom!` -Jean Paul Sartre.
+## *Man is Free, Man is Freedom! -Jean Paul Sartre.*
