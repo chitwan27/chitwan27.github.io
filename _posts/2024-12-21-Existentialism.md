@@ -2,9 +2,13 @@
 layout: post
 title:  "Existentialism"
 date:   2024-12-21 20:00:25 +0530
-categories: [blog]
+description: "An explanation of Existentialism and its basic tenets."
+keywords: "existentialism, meaning, purpose, philosophy"
+author: "Chitwan Singh"
+categories: [post]
 ---
-![image representing existential thought](/assets/images/ariel-tang-jp4ga0o7Cts-unsplash.jpg)
+
+<img src="/assets/images/existentialism_pic.jpg" alt="image representing existential thought"  style="width: 100%; height: auto;" loading="lazy">
 
 ## *An unexamined life is not worth living. -Socrates.*
 
