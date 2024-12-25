@@ -2,11 +2,11 @@
 layout: home
 title: "Home"
 description: "Home Page For Chitwan Singh's Blog"
-keywords: "blog, development, philosophy"
+keywords: "chitwan, blog, development, culture, philosophy, writing, videos, software"
 author: "Chitwan Singh"
 ---
 
-<h1><em>I’m a software developer, writer, and cultural critic based in India.</em></h1>
+<h1><em>I’m a software developer, writer, and cultural critic based in Punjab, India.</em></h1>
 
 <img src="./assets/images/main_image.jpg" alt="A backdrop of slanting text on a terminal."  style="width: 100%; height: auto;" loading="lazy">
 
@@ -17,7 +17,7 @@ author: "Chitwan Singh"
   {% for post in site.posts limit:3 %}
     <li>
       <a class='post-link' href="{{ post.url }}">{{ post.title }}</a>
-      <p>{{ post.content | strip_html | truncatewords: 125 }}</p>
+      <p>{{ post.content | strip_html | truncatewords: 100 }}</p>
     </li>
   {% endfor %}
 </ul>
