@@ -9,12 +9,12 @@ layout: default
   {{ content }}
 
   {%- if site.projects.size > 0 -%}
-    <h2>{{ page.list_title | default: "Recent Projects" }}</h2>
+    <h2 class='post-list-heading'>{{ page.list_title | default: "Recent Projects" }}</h2>
     <ul>
       {%- for post in site.projects limit: 5 -%}
       <li>
         <h3>
-          <a href="{{ post.url | relative_url }}">
+          <a class='post-link'  href="{{ post.url | relative_url }}">
             {{ post.title | escape }}
           </a>
         </h3> 

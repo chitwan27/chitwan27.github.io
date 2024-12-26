@@ -4,39 +4,21 @@
 
 
 
-$base-font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol" !default;
-$base-font-size:   18px !default;
+// $base-font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol" !default;
+// $base-font-size:   19px !default;
+// $base-font-weight: 400 !default;
+// $small-font-size:  $base-font-size * 0.85 !default;
+// $base-line-height: 1.5 !default;
+// $spacing-unit:     30px !default;
+
+
+$base-font-family: "Spectral", "Georgia", "Palatino Linotype", "Times New Roman", serif !default;
+$base-font-size:   22.5px !default; // Slightly larger for a luxurious feel
 $base-font-weight: 400 !default;
 $small-font-size:  $base-font-size * 0.875 !default;
-$base-line-height: 1.5 !default;
-$spacing-unit:     30px !default;
+$base-line-height: 1.6 !default; // Ample spacing for long-form text
+$spacing-unit:     35px !default;
 
-
-// $base-font-family: "Spectral", "Georgia", "Palatino Linotype", "Times New Roman", serif !default;
-// $base-font-size:   22.5px !default; // Slightly larger for a luxurious feel
-// $base-font-weight: 400 !default;
-// $small-font-size:  $base-font-size * 0.95 !default;
-// $base-line-height: 1.75 !default; // Ample spacing for long-form text
-// $spacing-unit:     35px !default;
-
-
-
-$text-color: #362d36 !default; 
-$background-color: #f6faf9 !default; 
-
-$grey-color:       #617283 !default; 
-$grey-color-light: lighten($grey-color, 40%) !default;
-$grey-color-dark:  darken($grey-color, 25%) !default;
-
-$brand-color: #0973ec !default; 
-$brand-color-2: #07097e !default; 
-
-$underline-color: #00cec938 !default; 
-$underline-thickness: 15px !default;
-$underline-offset: -3px !default;
-
-$selection-color: #f3bdc6 !default; 
-$selection-text-color: #2d3436 !default; 
 
 
 // $text-color: #3e2c1c !default; // Deep brown
@@ -46,15 +28,33 @@ $selection-text-color: #2d3436 !default;
 // $grey-color-light: lighten($grey-color, 40%) !default;
 // $grey-color-dark:  darken($grey-color, 25%) !default;
 
-// $brand-color: #d48b5b !default; // Burnt orange
-// $brand-color-2: #9b7845 !default; // Sand beige
+// $brand-color: #d46d5b !default; // Burnt orange
+// $brand-color-2: #9b8445 !default; // Sand beige
 
 // $underline-color: #8b5e34 !default; // Rich brown
 // $underline-thickness: 15px !default;
 // $underline-offset: -3px !default;
 
-// $selection-color: #e9dbc2 !default; // Creamy beige
+// $selection-color: #e9c8a6 !default; // Creamy beige
 // $selection-text-color: #3e2c1c !default; // Deep brown
+
+
+$text-color: #362d36 !default; 
+$background-color: #f6faf9 !default; 
+
+$grey-color:       #617283 !default; 
+$grey-color-light: lighten($grey-color, 40%) !default;
+$grey-color-dark:  darken($grey-color, 25%) !default;
+
+$brand-color: #0973fc !default; 
+$brand-color-2: #07097f !default; 
+
+$underline-color: #00cec938 !default; 
+$underline-thickness: 15px !default;
+$underline-offset: -3px !default;
+
+$selection-color: #caf3bd !default; 
+$selection-text-color: #2d3436 !default; 
 
 
 
