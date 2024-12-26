@@ -8,8 +8,6 @@ author: "Chitwan Singh"
 
 <div align="center">
 
-    <h3>Who am I?</h3>
-
     <div class="profile-pic">
         <img src="/assets/images/profile.jpeg" alt="My Profile Picture" loading="lazy">
     </div>

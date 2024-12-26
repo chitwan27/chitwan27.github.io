@@ -52,7 +52,9 @@ main {
  */
 img {
   max-width: 100%;
-  vertical-align: middle;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 
@@ -69,6 +71,16 @@ img {
   color: $selection-text-color;
 }
 
+/**
+* underline
+*/
+u {
+  text-decoration: underline;
+  text-decoration-skip-ink: none;
+  text-decoration-color: $underline-color;  
+  text-underline-offset: $underline-offset;
+  text-decoration-thickness: $underline-thickness;
+}
 
 /**
 * hr

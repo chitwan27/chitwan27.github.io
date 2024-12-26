@@ -8,9 +8,9 @@ author: "Chitwan Singh"
 categories: [post]
 ---
 
-<img src="/assets/images/existentialism_pic.jpg" alt="image representing existential thought"  style="width: 100%; height: auto;" loading="lazy">
+<img src="/assets/images/existence/existentialism_pic.jpg" alt="image representing existential thought"  style="width: 100%; height: auto;" loading="lazy">
 
-## *An unexamined life is not worth living. -Socrates.*
+# <u><strong><em>An unexamined life is not worth living. -Socrates.</em></strong></u>
 
 ### Welcome to the Universe
 Human beings are born into this world a blank slate, innocent and helpless, and pretty much instantaneously, the people around us start imposing their norms, values, and ideas on us. We all live our lives inside of society, and the people around us are always keen to teach us how to be a functioning member, through means both direct and indirect. Humans have been predisposed as social beings to construct stories and narratives which help us wrestle with the fundamental questions that beguile us. All cultures have origin stories, mythologies, and narratives that aid us in making sense of our place in the world. Religions, traditions, and norms still play a huge role in giving people a sense of certainty and direction. But, as society has progressed, and especially in the past few centuries, our relationship with these old foundations has started to change, as more and more of us have grown skeptical towards these traditional philosophical foundations.
@@ -48,4 +48,4 @@ From the existentialists' point of view, humans are condemned to be free; what e
 ### Existentialism is a Humanism
 Existentialism eradicates any a priori values by which to judge our actions, yet there are some fundamental values and ethical preferences, that still emerge from this philosophy. It is inauthentic to live in bad faith, to be logically inconsistent, or to be dishonest with oneself about one's choices. In existentialism, freedom is the fundamental value from which other values emerge, thus it is sacred. It is clear that despite one's will to act freely, societal baggage infused in hierarchies of class, creed, gender, etc., prevents an individual from freely expressing themselves. Also, it is quite important to understand the fact that in a society no individual is free until everyone is. When an individual gives primacy to their own subjectivity, they discover that every other human being is in the same predicament as them. Simone De Beauvoir argued in her work, "The Ethics of Ambiguity" that, one's greatest moral imperative is to create their own life's meaning, while fighting for the freedom for others to do the same. Thus, existential living involves fighting with forces inside and outside oneself, in the quest for achieving true freedom and authenticity. By adopting the existentialist point of view, one starts engaging critically and authentically with their life's choices, and once they start seeing the universality in their individuality, what emerges is a rational, empathetic, and transcendental way of living.
 
-## *Man is Free, Man is Freedom! -Jean Paul Sartre.*
+# <u><strong><em>Man is Free, Man is Freedom! -Jean Paul Sartre.</em></strong></u>
