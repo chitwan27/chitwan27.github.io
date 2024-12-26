@@ -1,6 +1,6 @@
 This favicon was generated using the following font:
 
-- Font Title: Material Icons Outlined
+- Font Title: Oxanium
 - Font Author: undefined
-- Font Source: https://fonts.gstatic.com/s/materialiconsoutlined/v109/gok-H7zzDkdnRel8-DQ6KAXJ69wP1tGnf4ZGhUcdl5GuI2Ze.otf
+- Font Source: https://fonts.gstatic.com/s/oxanium/v19/RrQPboN_4yJ0JmiMUW7sIGjd1IA9G81JfniMBXQ7d67x.ttf
 - Font License: undefined)
