@@ -6,21 +6,23 @@ layout: default
   <header class="post-header">
     <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
     <p class="post-meta">
-      
+
       <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
         {{ page.date | date: date_format }}
       </time>
 
       {%- if page.author -%}
-        • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">{{ page.author }}</span></span>
-      {%- endif -%}</p>
+      • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card"
+          itemprop="name">{{ page.author }}</span></span>
+      {%- endif -%}
+    </p>
 
-      {% assign words = content | number_of_words %}
-      {% assign reading_time = words | divided_by: 170 | plus: 1 %}
-      <span class="post-meta">
-        📚 {{ reading_time }} min read
-      </span>
+    {% assign words = content | number_of_words %}
+    {% assign reading_time = words | divided_by: 170 | plus: 1 %}
+    <span class="post-meta">
+      📚 {{ reading_time }} min read
+    </span>
   </header>
 
   <hr>
@@ -29,9 +31,16 @@ layout: default
     {{ content }}
   </div>
 
-  {%- if site.disqus.shortname -%}
-    {%- include disqus_comments.html -%}
-  {%- endif -%}
+  <br />
+  <hr />
+  <br />
+
+  <script src="https://utteranc.es/client.js" repo="chitwan27/chitwan27.github.io" issue-term="pathname"
+    theme="github-light" crossorigin="anonymous" async>
+  </script>
+
+  <br />
+
 
   <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
 </article>
