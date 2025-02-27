@@ -8,7 +8,9 @@ author: "Chitwan Singh"
 categories: [post]
 ---
 
-<img src="/assets/images/existence/existentialism_pic.jpg" alt="image representing existential thought"  style="width: 100%; height: auto;" loading="lazy">
+<div class="image-wrapper">
+<img src="/assets/images/existence/existentialism_pic.jpg" alt="image representing existential thought" loading="lazy">
+</div>
 
 # <u><strong><em>An unexamined life is not worth living. -Socrates.</em></strong></u>
 
