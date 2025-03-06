@@ -14,7 +14,7 @@ author: "Chitwan Singh"
 
     <br>
 
-    <em>Hi, I’m Chitwan!</em>
+    <div style="text-align: center;"><em><strong><u>Hi, I’m Chitwan!</u></strong></em></div>
 
 </div>
 
