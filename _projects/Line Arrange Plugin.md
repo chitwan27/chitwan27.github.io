@@ -8,27 +8,40 @@ author: "Chitwan Singh"
 categories: [project]
 ---
 
-### This is an Obsidian plugin to shuffle, reverse, or sort lines, using either visual width or lexical order.
+### Line Arrange is an Obsidian plugin that allows users to rearrange lines or blocks of text in various ways, including sorting, reversing, and shuffling. Users can perform these operations based on visual width or lexical order.
 
 ---
 
 #### Features
 
-- **Sort Lines by Width**: Arrange lines based on their visual length.
+- Line-Based Operations
 
-<img src="/assets/images/lineArrange/sorted.png" alt="Sorted Lines" style="width: 75%; height: auto;" loading="lazy" />
+   - **Sort Lines by Width**: Arrange selected lines based on their visual length.
 
-- **Shuffle Lines Randomly**: Randomly arrange the selected lines.
+   <img src="/assets/images/lineArrange/sorted.png" alt="Sorted Lines" style="width: 75%; height: auto;" loading="lazy" />
 
-<img src="/assets/images/lineArrange/shuffled.png" alt="Sorted Lines" style="width: 75%; height: auto;" loading="lazy" />
+   - **Sort Lines Lexically**: Arrange selected lines in alphanumerical order.
 
-- **Sort Lines Lexically**: Arrange lines based on their alphanumerical order.
+   <img src="/assets/images/lineArrange/lexisrted.png" alt="Lexisorted Lines" style="width: 75%; height: auto;" loading="lazy" />
 
-<img src="/assets/images/lineArrange/lexisrted.png" alt="Lexisorted Lines" style="width: 75%; height: auto;" loading="lazy" />
+   - **Shuffle Lines**: Randomize the order of selected lines.
 
-- **Reverse Selected Lines**: Reverse the order of the selected lines.
+   <img src="/assets/images/lineArrange/shuffled.png" alt="Shuffled Lines" style="width: 75%; height: auto;" loading="lazy" />
 
-<img src="/assets/images/lineArrange/reversed.png" alt="Reversed Lines" style="width: 75%; height: auto;" loading="lazy" />
+   - **Reverse Lines**: Flip the order of selected lines.
+
+   <img src="/assets/images/lineArrange/reversed.png" alt="Reversed Lines" style="width: 75%; height: auto;" loading="lazy" />
+
+- Block-Based Operations
+
+   - **Sort Blocks by Visual Width**: Arrange selected blocks hierarchically based on their visual length.
+   <img src="/assets/images/lineArrange/sorted_blocks.jpg" alt="Sorted Blocks" style="width: 75%; height: auto;" loading="lazy" />
+   - **Sort Blocks Lexically**: Arrange selected blocks hierarchically in alphanumerical order.
+   <img src="/assets/images/lineArrange/lexisrted_blocks.jpg" alt="Lexisorted Blocks" style="width: 75%; height: auto;" loading="lazy" />
+   - **Shuffle Blocks**: Randomly reorder selected blocks, but maintain hierarchy.
+   <img src="/assets/images/lineArrange/shuffled_blocks.jpg" alt="Shuffled Blocks" style="width: 75%; height: auto;" loading="lazy" />
+   - **Reverse Blocks**: Flip the order of selected text blocks, but maintain hierarchy.
+   <img src="/assets/images/lineArrange/reversed_blocks.jpg" alt="Reversed Blocks" style="width: 75%; height: auto;" loading="lazy" />
 
 ---
 
@@ -70,6 +83,34 @@ categories: [project]
    - `Reverse lines` to reverse the order of the selected lines.
 
    <img src="/assets/images/lineArrange/reverse.png" alt="Reverse Lines Usage" style="width: 75%; height: auto;" loading="lazy" />
+
+---
+
+#### List of Commands
+
+- **Lexisort lines**
+  - Action: Lexically sorts the lines in the selected text.
+
+- **Reverse lines**
+  - Action: Reverses the order of the lines in the selected text.
+
+- **Sort lines**
+  - Action: Sorts the lines in the selected text.
+
+- **Shuffle lines**
+  - Action: Shuffles the lines in the selected text.
+
+- **Lexisort blocks**
+  - Action: Lexically sorts the blocks in the selected text.
+
+- **Reverse blocks**
+  - Action: Reverses the order of the blocks in the selected text.
+
+- **Sort blocks**
+  - Action: Sorts the blocks in the selected text.
+
+- **Shuffle blocks**
+  - Action: Shuffles the blocks in the selected text.
 
 ---
 
