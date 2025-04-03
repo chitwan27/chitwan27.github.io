@@ -9,7 +9,7 @@
         <ul class="contact-list">
           <li class="p-name">
             {%- if site.author -%}
-              © 2025 {{ site.author | escape }}
+              © {{ 'now' | date: '%Y' }} {{ site.author | escape }}
             {%- else -%}
               {{ site.title | escape }}
             {%- endif -%}
