@@ -16,7 +16,7 @@ author: "Chitwan Singh"
 
     <br>
 
-    <div style="text-align: center;"><em><strong><u>Hi, I’m Chitwan!</u></strong></em></div>
+    <div style="text-align: center;"><em><strong><u><a href="https://chitwansingh.rocks">Hi, I’m Chitwan!</a></u></strong></em></div>
 
 </div>
 

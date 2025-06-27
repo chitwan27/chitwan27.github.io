@@ -9,7 +9,7 @@
         <ul class="contact-list">
           <li class="p-name">
             {%- if site.author -%}
-              © {{ 'now' | date: '%Y' }} {{ site.author | escape }}
+              © {{ 'now' | date: '%Y' }} <a href="https://chitwansingh.rocks">{{ site.author | escape }}</a>
             {%- else -%}
               {{ site.title | escape }}
             {%- endif -%}
