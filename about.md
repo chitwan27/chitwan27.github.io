@@ -11,12 +11,12 @@ author: "Chitwan Singh"
 <div align="center">
 
     <div class="profile-pic">
-        <img src="/assets/images/profile.jpeg" alt="My Profile Picture" loading="lazy">
+        <a href="https://chitwansingh.rocks"><img src="/assets/images/profile.jpeg" alt="My Profile Picture" loading="lazy"></a>
     </div>
 
     <br>
 
-    <div style="text-align: center;"><em><strong><u><a href="https://chitwansingh.rocks">Hi, I’m Chitwan!</a></u></strong></em></div>
+    <div style="text-align: center;"><em><strong><u>Hi, I’m Chitwan!</u></strong></em></div>
 
 </div>
 
