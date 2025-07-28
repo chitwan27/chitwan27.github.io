@@ -2,8 +2,8 @@
 layout: post
 title:  "Bhagat Singh"
 date:   2025-07-28 21:36:09 +0530
-description: ""
-keywords: ""
+description: "A school essay I wrote on the legend"
+keywords: "legend, hero, bhagat, singh"
 author: "Chitwan Singh"
 categories: [post]
 ---
