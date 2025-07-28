@@ -9,7 +9,7 @@ categories: [post]
 ---
 
 <div class="image-wrapper">
-<img src="/assets/images/existence/existentialism_pic.jpg" alt="image representing existential thought" loading="lazy">
+<img src="/assets/images/existentialism_pic.jpg" alt="image representing existential thought" loading="lazy">
 </div>
 
 # <u><strong><em>An unexamined life is not worth living. -Socrates.</em></strong></u>
