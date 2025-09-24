@@ -10,13 +10,15 @@ author: "Chitwan Singh"
 
 <div align="center">
 
-    <div class="profile-pic">
-        <a href="https://chitwansingh.rocks"><img src="/assets/images/profile.jpeg" alt="My Profile Picture" loading="lazy"></a>
-    </div>
+    <br>
+
+    <h3 style="text-align: center;"><em><strong><u>Hi, I’m Chitwan!</u></strong></em></h3>
 
     <br>
 
-    <div style="text-align: center;"><em><strong><u>Hi, I’m Chitwan!</u></strong></em></div>
+    <div class="image-wrapper" style="aspect-ratio:11/9 ; width:35%;">
+        <a href="https://chitwansingh.rocks"><img src="/assets/images/skybranch.jpg" alt="Profile Picture" loading="lazy"></a>
+    </div>
 
 </div>
 
