@@ -17,7 +17,7 @@ author: "Chitwan Singh"
     <br>
 
     <div class="image-wrapper" style="aspect-ratio:11/9 ; width:35%;">
-        <a href="https://chitwansingh.rocks"><img src="/assets/images/skybranch.jpg" alt="Profile Picture" loading="lazy"></a>
+        <a href="https://chitwansingh.tech"><img src="/assets/images/skybranch.jpg" alt="Profile Picture" loading="lazy"></a>
     </div>
 
 </div>
